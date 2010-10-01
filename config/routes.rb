@@ -1,4 +1,8 @@
 Sao::Application.routes.draw do
+  get "sao_payments/index"
+
+  get "sao_payments/show"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
