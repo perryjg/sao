@@ -4,6 +4,7 @@ gem 'rails', '3.0.0.rc2'
 gem 'mysql'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'inherited_resources'
+gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug'
